@@ -31,7 +31,7 @@ This repository contains the code, simulation models, and related resources for 
 ### How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/Tushar2952/Vehicle-Collision-Avoidance-Technologies-Traffic-Simulation.git
    ```
 2. Install dependencies:  
    ```bash
